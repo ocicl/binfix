@@ -1,0 +1,9 @@
+* binfix
+
+A powerful infix syntax notation for Common LISP
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/vcerovski/binfix.git |
+| commit  | 65baa0e                                     |
+| systems | binfix                                      |
+|---------+---------------------------------------------|
